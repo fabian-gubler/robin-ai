@@ -1,8 +1,12 @@
 # UX/UI Design for RobinAI – HCI Course Project
 
-[**Final Report**](#)  
-_(Include link to final report here)_  
-[**Figma Prototype**](https://www.figma.com/proto/Wk6ePoDf4zpVi0xFqCO240/Untitled?node-id=0-1&t=5eEkZYuQQpYLeCEs-1)
+### :books: **Final Project Report**:  
+**[Robin AI Project Summary](https://raw.githubusercontent.com/fabian-gubler/robin-ai/main/RobinAI_FinalReport.pdf)** – Click the link for a detailed summary of our project journey.
+
+### 🎨 **Figma Prototype**:  
+**[RobinAI Figma Prototype](https://www.figma.com/proto/Wk6ePoDf4zpVi0xFqCO240/Untitled?node-id=0-1&t=5eEkZYuQQpYLeCEs-1)** – Explore the interactive prototype for RobinAI.
+
+---
 
 ## Table of Contents
 
@@ -31,11 +35,3 @@ Using the **think-aloud method**, we gathered feedback on navigation and interac
 - **Iterative Prototyping**: Each iteration brought new insights into improving user experience.
 - **User-Centered Design**: Understanding user needs through research and testing was key to creating intuitive designs.
 - **Navigation and Usability**: Ensuring smooth navigation was crucial for data exploration tasks.
-
-## Acknowledgements
-
-Thanks to our instructors and peers for their support throughout the project, and to our users for their valuable feedback during testing.
-
----
-
-This version highlights the final report and Figma prototype while keeping the content concise and focused. Let me know if you need any further changes!
