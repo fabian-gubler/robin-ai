@@ -1,10 +1,10 @@
 # UX/UI Design for RobinAI – HCI Course Project
 
-### :books: **Final Project Report**:  
-**[Robin AI Project Summary](https://raw.githubusercontent.com/fabian-gubler/robin-ai/main/RobinAI_FinalReport.pdf)** – Click the link for a detailed summary of our project journey.
-
 ### 🎨 **Figma Prototype**:  
 **[RobinAI Figma Prototype](https://www.figma.com/proto/Wk6ePoDf4zpVi0xFqCO240/Untitled?node-id=0-1&t=5eEkZYuQQpYLeCEs-1)** – Explore the interactive prototype for RobinAI.
+
+### :books: **Final Project Report**:  
+**[Robin AI Project Summary](https://raw.githubusercontent.com/fabian-gubler/robin-ai/main/RobinAI_FinalReport.pdf)** – Click the link for a detailed summary of our project journey.
 
 ---
 
